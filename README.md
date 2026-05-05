@@ -8,7 +8,7 @@
 
 ## 🚀 Here are some projects I am involved in 
 
-| name                                                   | description                                                     |   stars |
+| Name                                                   | Description                                                     |   Stars |
 |--------------------------------------------------------|-----------------------------------------------------------------|---------|
 | [ctf4science](https://github.com/CTF-for-Science/ctf4science)       | Benchmarking data-driven methods, SciML, ...                 |     40 |
 | [g-adaptivity](https://github.com/JRowbottomGit/g-adaptivity)     | Adaptive meshing, GNNs, FEM, ...         |      11 |
