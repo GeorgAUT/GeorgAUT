@@ -11,7 +11,7 @@
 | Name                                                   | Description                                                     |   Stars |
 |--------------------------------------------------------|-----------------------------------------------------------------|---------|
 | [ctf4science](https://github.com/CTF-for-Science/ctf4science)       | Benchmarking data-driven methods, SciML, ...                 |     40 |
-| [g-adaptivity](https://github.com/JRowbottomGit/g-adaptivity)     | Adaptive meshing, GNNs, FEM, ...         |      11 |
+| [g-adaptivity](https://github.com/JRowbottomGit/g-adaptivity)     | Adaptive Meshing, GNNs, FEM, ...         |      11 |
 | [GLIMPSE](https://github.com/GeorgAUT/GLIMPSE)       | Dispersive PDEs, Geometric Numerical Integration, ...                          |     5 |
 | [StableHermiteTransforms](https://github.com/marcusdavidwebb/StableHermiteTransforms)     | Function Approximation, Stable Numerics, ...        |     1 |
 | [MeshStudioAI](https://github.com/GeorgAUT/MeshStudioAI)     | Flexible Adaptive Meshing, FEM, ...        |     1 |
